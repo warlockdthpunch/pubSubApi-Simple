@@ -1,5 +1,5 @@
 """
-ChangeDataCaptureSub.py
+FileUploadEventCapture.py
 
 !!! Install the Python package manager by running this command in the terminal.
 pip3 install grpcio grpcio-tools avro requests
